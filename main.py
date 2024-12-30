@@ -146,7 +146,7 @@ if __name__ == "__main__":
     primes = [2, 3, 5, 7, 11]
     qrlme = QRLME(primes)
 
-    #  folder where your dataset is located
+    #  folder where dataset is located
     folder_path = 'dataset'
 
     # Process all files in the folder
